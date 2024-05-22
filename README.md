@@ -45,6 +45,12 @@ Developer Full-Stack from Venezuela
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=wolfis21&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wolfis21&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfis21&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <!--
 **Aniballopez7/Aniballopez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
