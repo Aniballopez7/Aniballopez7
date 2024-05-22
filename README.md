@@ -1,9 +1,9 @@
 ## Hi there, I am Anibal Lopez 👋
 #Developer Full-Stack from Venezuela
 
-# 📫 Contant:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(aniballopez0708@gmail.com)] 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(@Aniballopez7)]
+# 📫 Contact:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aniballopez0708@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@Aniballopez7)
 
 # 💻 Tech Stack:
 <!--
