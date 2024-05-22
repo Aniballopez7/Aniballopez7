@@ -8,8 +8,8 @@
 
 
 # 💻 Tech Stack:
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 <!--
 **Aniballopez7/Aniballopez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
