@@ -1,5 +1,5 @@
 ## Hi there, I am Anibal Lopez 👋
-#Developer Full-Stack from Venezuela
+Developer Full-Stack from Venezuela
 
 # 📫 Contact:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniballopez0708@gmail.com)
